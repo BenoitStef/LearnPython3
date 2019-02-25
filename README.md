@@ -7,7 +7,8 @@
 -   Chapter 5: String/Encoding & Practice + Test - ex23 to ex26 End Part1
 -   Chapter 6: Part2 - Start with ex29 to ex31 - If/else & boolean statement
 -   Chapter 7: Loops and Lists - ex32 to ex34
--   Chapter 8: Branches & functions - ex32 to ex34
+-   Chapter 8: Branches & functions & Dict - ex35 to ex39
+-   Chapter 9: OOP basics - ex40
 
 ### Maintainer of this repo
 Benoît Stef - benoit.stef@psi.ch

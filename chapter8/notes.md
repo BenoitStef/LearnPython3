@@ -26,3 +26,9 @@ earlier in your function and use a good name for the variable.
 2.  The best way to debug a program is to use print to print out the values of variables at points in the program to see where they go wrong.
 
 3.  Make sure parts of your programs work as you work on them. Do not write massive files of code before you try to run them. Code a little, run a little, fix a little.
+
+### Dictionaries
+
+-  [link how to use list](https://www.tutorialspoint.com/python/python_lists.htm)  
+
+-  [link how to use dict](https://www.tutorialspoint.com/python/python_dictionary.htm)
