@@ -1,3 +1,8 @@
+#-------------------------------------------------------------------------------
+# Test Part 1 - Learn Python 3 the hard way - page 126
+# Author    : Benoit Stef
+# Date      : 24.02.2019
+#-------------------------------------------------------------------------------
 from sys import argv
 print("How old are you?", end=' ')
 age = input()
